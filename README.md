@@ -1,9 +1,11 @@
 # @catalyst-team/poly-sdk
 
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
+[![中文](https://img.shields.io/badge/语言-中文-red.svg)](README.zh-CN.md)
+
 Unified SDK for Polymarket APIs - Data API, Gamma API, CLOB API, and WebSocket real-time updates.
 
-**Builder**: [@hhhx402](https://x.com/hhhx402)
-**Project**: [Catalyst.fun](https://x.com/catalystdotfun)
+**Builder**: [@hhhx402](https://x.com/hhhx402) | **Project**: [Catalyst.fun](https://x.com/catalystdotfun)
 
 ## Installation
 

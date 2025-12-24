@@ -1,13 +1,14 @@
 # @catalyst-team/poly-sdk
 
-Unified TypeScript SDK for Polymarket - prediction markets trading, arbitrage detection, smart money analysis, and comprehensive market data.
-
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
+[![中文](https://img.shields.io/badge/语言-中文-red.svg)](README.zh-CN.md)
 [![Version](https://img.shields.io/badge/version-0.2.0-blue.svg)](package.json)
 [![Tests](https://img.shields.io/badge/tests-43%2F43%20passing-brightgreen.svg)](#testing)
-[![License](https://img.shields.io/badge/license-Private-red.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-**Builder**: [@hhhx402](https://x.com/hhhx402)
-**Project**: [Catalyst.fun](https://x.com/catalystdotfun)
+Unified TypeScript SDK for Polymarket - prediction markets trading, arbitrage detection, smart money analysis, and comprehensive market data.
+
+**Builder**: [@hhhx402](https://x.com/hhhx402) | **Project**: [Catalyst.fun](https://x.com/catalystdotfun)
 
 ## Features
 
